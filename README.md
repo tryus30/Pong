@@ -13,8 +13,7 @@ Reference link:
 https://github.com/tryus30/Pong
 
 
-...
-
+```
 #include <stdio.h>
 {
 	void main()
@@ -23,3 +22,4 @@ https://github.com/tryus30/Pong
 	}
 
 }
+```
